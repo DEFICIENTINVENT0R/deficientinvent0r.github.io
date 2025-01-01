@@ -1,0 +1,6 @@
+#sidebar #avatar {
+  margin-top: 10px; /* Abstand oben */
+  margin-right: 20px; /* Abstand rechts */
+  margin-bottom: 10px; /* Abstand unten */
+  margin-left: 15px; /* Abstand links */
+}
